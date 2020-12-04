@@ -37,3 +37,5 @@ new Vue({
         App
     }
 })
+
+document.write("我是新添加的");
